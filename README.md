@@ -1,1 +1,1 @@
-# MYSQL-portfolio
+# SQL-portfolio
